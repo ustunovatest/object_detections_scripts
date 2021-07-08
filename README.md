@@ -2,6 +2,6 @@
 vis scripts
 
 
-*  v0.0.1
+v0.0.1
 
-  Desktop Scripts are added ... 
+  *   Desktop Scripts are added ... 
